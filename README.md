@@ -1,10 +1,14 @@
 # Git Flow
-
+README.md
 ## Objectives
 
 * Get familiar with git syntax
 * Get comfortable creating, merging, pushing, and pulling branches
 * Resolve merge conflicts
+
+## Lauren Here:
+ 
+(╯°□°）╯︵ ┻━┻
 
 ## Instructions
 
@@ -163,14 +167,7 @@ Since you're working on this project alone, you're going to mimic the remote cre
   * ![edit icon](https://s3-us-west-2.amazonaws.com/readme-photos/git-flow-update-edit.png)
 
 * Near the top of the markup, below the "Objectives" section, add the text below:
-
-```markdown
-
-## Lauren Here:
-
-(╯°□°）╯︵ ┻━┻
-
-```
+gem install learn-co
 
 * Now the readme should look like this:
   * ![table flip added to readme](https://s3-us-west-2.amazonaws.com/readme-photos/git-flow-update-lauren.png)
